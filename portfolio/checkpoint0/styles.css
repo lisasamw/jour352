@@ -1,8 +1,68 @@
+/*
+font-family: 'Montserrat', ;
+font-family: 'Noto Serif', ;
+*/
+
+h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;}
+
+.name{
+    text-align: center;
+    width:70%;
+    margin: 0 auto 20 px;
+    font-style: normal;
+  }
+
+  .name div {color: #999;
+            font-style: italic;
+            font-weight: bold;
+            font-family: "Noto Serif", serif;
+            margin-top: 0;}
+
+
+
+
 h1 {
     color: #33485e;
+    letter-spacing:2px;font size: 26px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 0; font-style: normal;
 }
+
+h2 {color: gray; font-family: 'Noto Serif italic'}
+
+h3 {
+  color:white;
+  background-color:#33485e;}
+
+.highlight {color: white; background-color: #33485e;}
 
 img {
     max-width: 600px;
-    width: 100%;
+    width: 33%;
+    float: right;
+    margin: 10px;
+}
+
+body {font-family: 'Noto Serif', serif;
+max-width: 70%; margin: 50px auto;}
+}
+
+a{color:#33485e;}
+
+.clearfix {overflow: auto;}
+
+#social ul {list-style-type: none;
+            padding: 0;
+            display; in-line block;}
+
+#social ul li {display: inline-block;color:#33485e;}
+
+#social ul li::after{
+    content: "|";
+
+}
+
+#social ul li:last-child::after {
+  content:"";
 }
