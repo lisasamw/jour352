@@ -1,0 +1,56 @@
+h1 {
+    font-size: 30px;
+    font-family: 'Inria Serif bold', serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Inria Serif bold', serif;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Mukta', Helvetica, Arial, sans-serif;
+}
+
+img {
+    width: 700px;
+}
+
+.g1 {
+    width: 100px;
+}
+
+.g2 {
+    width: 100px;
+}
+
+.caption {
+    font-size: 14px;
+    color: gray;
+}
+
+#content {
+    margin: 0 auto;
+    width: 60%;
+}
+
+
+/* Here I am going to make my byline font-size 20px */
+
+.byline {
+    font-size: 20px;
+    font-family: 'Inria Serif bold';
+}
+
+.date {
+    font-size: 20px;
+    font-family: 'Inira Serif';
+    color: grey;
+}
+
+blockquote {
+    font-size: 25px;
+    color: white;
+    background-color: purple;
+}

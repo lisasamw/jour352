@@ -1,0 +1,17 @@
+
+h5,h6 {color: gray; font-family: helvetica; font-style: italic; font-size: 14px;}
+h1{font-family: helvetica, sans-serif;font-size: 30px;}
+p{font-family: Georgia, serif; font-size:13px;}
+
+#content {
+  margin: 0 auto;
+  width: 740px;}
+
+.caption{
+  font-family: Georgia, serif; font-size: 11px; color: gray
+}
+blockquote{font-family: helvetica, sans-serif; font-size: 20px; font-style: italic; background-color: pink;color: white;
+          margin-top 15px}
+.container{position:relative;}
+.pic1{float:left; width:50%;}
+.pic2{float:right; width:50%;}
