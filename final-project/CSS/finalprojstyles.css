@@ -1,0 +1,94 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #216689;
+}
+
+.headline {
+    border-bottom: 2px dotted #9CC5A1;
+    padding: 0 40px;
+    padding-top: 40px;
+}
+
+.container {
+    padding: 0 40px;
+}
+
+.buidings {
+    position: relative;
+}
+
+.buildings .one {
+    width: 50%;
+    float: left;
+}
+
+.buildings .two {
+    width: 50%;
+    float: left;
+}
+
+.buildings img {
+    width: 90%;
+    height: 500px;
+}
+
+.charts {
+    position: relative;
+}
+
+.charts .one {
+    width: 50%;
+    float: left;
+}
+
+.charts .two {
+    width: 50%;
+    float: left;
+}
+
+.charts img {
+    width: 90%;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Cardo', serif;
+    color: #1F2421;
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    float: left;
+}
+
+.relative {
+    position: relative;
+}
+
+.right {
+    float: right;
+}
+
+.caption {
+    color: #666;
+    font-size: 17px;
+}
+
+.footer {
+    border-top: #666;
+    text-align: center;
+    background: #9CC5A1;
+    padding: 20px;
+    color: #333;
+}
+
+.footer a {
+    color: #333;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
